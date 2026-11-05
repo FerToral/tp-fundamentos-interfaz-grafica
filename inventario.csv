@@ -1,0 +1,16 @@
+codigo,nombre,categoria,precio,stock
+101,Yerba Mate 1kg,Almacén,3500.0,15
+102,Detergente 750ml,Limpieza,1850.5,8
+103,Fideos Spaghetti 500g,Almacén,980.0,25
+104,Arroz Blanco 1kg,Almacén,1400.0,30
+105,Lavandina 1L,Limpieza,1200.0,12
+106,Leche Entera 1L,Lácteos,1150.0,20
+107,Queso Cremoso 1kg,Lácteos,5800.0,6
+108,Gaseosa Cola 2.25L,Bebidas,2400.0,18
+109,Agua Mineral 1.5L,Bebidas,900.0,40
+110,Galletitas Dulces 300g,Almacén,1250.0,14
+111,Jabón Líquido 800ml,Limpieza,2300.0,7
+112,Aceite de Girasol 900ml,Almacén,1950.0,11
+113,Café Molido 250g,Almacén,3100.0,9
+114,Yogur Frutilla 1L,Lácteos,1600.0,10
+115,Cerveza Rubia 1L,Bebidas,2100.0,22
